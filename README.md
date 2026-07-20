@@ -4,7 +4,7 @@
 Cyber Escape: First Shift is an AI-enhanced cybersecurity awareness simulation that puts users in the role of a SOC Analyst. The project transforms traditional cybersecurity training into an interactive experience where users investigate cyber incidents, identify threats, and make security decisions in a realistic SOC environment.
 
 ## Project Idea
-Traditional cybersecurity awareness training often depends on presentations and quizzes, which may not provide realistic practice. This project introduces a simulation-based approach where users learn cybersecurity concepts by responding to real-world inspired cyber incidents.
+Traditional cybersecurity awareness training often relies on presentations and quizzes, which may not provide realistic hands-on practice. This project introduces a simulation-based approach where users learn cybersecurity concepts by responding to real-world inspired cyber incidents.
 
 ## Features
 - Interactive SOC Analyst simulation experience
@@ -35,16 +35,16 @@ The simulation includes different cybersecurity incidents, such as:
 - Interactive simulation design
 
 ## Purpose
-Cyber Escape: First Shift aims to make cybersecurity education more engaging and practical by allowing users to experience security incidents instead of only reading about them.
+Cyber Escape: First Shift aims to make cybersecurity education more engaging and practical by allowing users to experience security incidents instead of only learning through traditional methods.
+
+## Screenshots
+Screenshots showcasing the SOC environment, cyber incident scenarios, and user interactions.
+
+## Demo Video
+Watch the project demonstration: [Cyber Escape: First Shift Demo](https://drive.google.com/file/d/1gbYjO0GxtZv8coU0Ota5pSZZGf9H2xvd/view?usp=drivesdk)
 
 ## Future Improvements
 - More advanced attack scenarios
 - Adaptive AI-driven challenges
 - Enhanced scoring and analytics
 - Integration into cybersecurity training platforms
-## Demo Video
-
-Watch the project demonstration:
-
-[Cyber Escape: First Shift Demo](https://drive.google.com/file/d/1gbYjO0GxtZv8coU0Ota5pSZZGf9H2xvd/view?usp=drivesdk)
-
