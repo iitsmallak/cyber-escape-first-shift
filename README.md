@@ -42,3 +42,9 @@ Cyber Escape: First Shift aims to make cybersecurity education more engaging and
 - Adaptive AI-driven challenges
 - Enhanced scoring and analytics
 - Integration into cybersecurity training platforms
+## Demo Video
+
+Watch the project demonstration:
+
+[Cyber Escape: First Shift Demo](https://drive.google.com/file/d/1gbYjO0GxtZv8coU0Ota5pSZZGf9H2xvd/view?usp=drivesdk)
+
